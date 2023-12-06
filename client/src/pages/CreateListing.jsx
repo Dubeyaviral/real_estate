@@ -247,7 +247,7 @@ export default function CreateListing() {
                 type="number"
                 id="bedrooms"
                 min="1"
-                max="10"
+                max="100"
                 required
                 className="p-3 border border-sky-300 rounded-lg"
                 onChange={handleChange}
@@ -260,7 +260,7 @@ export default function CreateListing() {
                 type="number"
                 id="bathrooms"
                 min="1"
-                max="10"
+                max="100"
                 required
                 className="p-3 border border-sky-300 rounded-lg"
                 onChange={handleChange}
@@ -272,8 +272,8 @@ export default function CreateListing() {
               <input
                 type="number"
                 id="regularPrice"
-                min="50"
-                max="10000000"
+                min="15"
+                max="100000000"
                 required
                 className="p-3 border border-sky-300 rounded-lg"
                 onChange={handleChange}
@@ -292,7 +292,7 @@ export default function CreateListing() {
                   type="number"
                   id="discountPrice"
                   min="0"
-                  max="10000000"
+                  max="100000000"
                   required
                   className="p-3 border border-gray-300 rounded-lg"
                   onChange={handleChange}
