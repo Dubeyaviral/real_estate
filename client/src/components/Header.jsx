@@ -43,7 +43,9 @@ export default function Header() {
             value={searchTerm}
             onChange={(e) => setSearchTerm(e.target.value)}
           />
-          <FaSearch className="text-sky-600" />
+          <button>
+            <FaSearch className='text-sky-600' />
+          </button>
         </form>
         <ul className="flex gap-4">
           <Link to="/">
