@@ -11,7 +11,7 @@ Your Estate Agent is a fully-featured E-Commerce Web Application built on the ME
 * Users can conveniently update their profiles while logged in.
 * All user data, including registered users and real estate properties, is stored in a MongoDB database.
 * The application boasts a responsive design, ensuring a seamless user experience across various devices.<br><br>
-[link to the website](https://your-estate.onrender.com)
+[Link to the website](https://your-estate.onrender.com)
 
 ![image](https://github.com/Dubeyaviral/real_estate/assets/85870610/68ba0525-77da-4e3e-8ecd-a8ee73976360)<br><br>
 ![image](https://github.com/Dubeyaviral/real_estate/assets/85870610/de051fb4-012d-4c54-a8b3-d72a2808ba37)<br><br>
